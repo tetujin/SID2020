@@ -38,11 +38,11 @@ class _MyHomePageState extends State<MyHomePage> {
   void _getBatteryInfo() {
     _battery.batteryLevel.then((value) {
       setState(() {
-        var datetime = DateTime.now();
-        var hour = datetime.hour;
-        var min = datetime.minute;
-        var sec = datetime.second;
-        _time = "$hour時$min分$sec秒";
+        // var datetime = DateTime.now();
+        // var hour = datetime.hour;
+        // var min = datetime.minute;
+        // var sec = datetime.second;
+        // _time = "$hour時$min分$sec秒";
         _batteryInfo = "$value";
       });
     });

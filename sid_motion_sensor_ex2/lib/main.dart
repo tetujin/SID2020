@@ -1,7 +1,9 @@
-import 'dart:async';
+import 'package:flutter/material.dart';
+
 import 'dart:io';
 
-import 'package:flutter/material.dart';
+import 'dart:async';
+
 import 'package:sensors/sensors.dart';
 
 void main() {

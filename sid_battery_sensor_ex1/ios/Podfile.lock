@@ -1,0 +1,22 @@
+PODS:
+  - battery (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - battery (from `.symlinks/plugins/battery/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  battery:
+    :path: ".symlinks/plugins/battery/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  battery: 6b19dafdbba590f03b1f0cd2f1224e3ffedadbe6
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
