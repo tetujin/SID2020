@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  ## (1) Add the following code ##
+  ## (0) Add the following code ##
   sqflite:
   path_provider:
 

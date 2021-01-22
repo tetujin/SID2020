@@ -1,4 +1,4 @@
-// (2) Add the following code ##
+// (1) Add the following code ##
 
 class Task {
   final int id;
