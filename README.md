@@ -10,3 +10,6 @@ This is the supplemental source code for Spatial Information Design class at the
 - [Motion Sensor (Exercise 2)](https://github.com/tetujin/SID2020/tree/main/sid_motion_sensor_ex2)
 - [Location Sensor (Exercise 1)](https://github.com/tetujin/SID2020/tree/main/sid_location_sensor_ex1)
 - [Location Sensor (Exercise 2)](https://github.com/tetujin/SID2020/tree/main/sid_location_sensor_ex2)
+
+## January 22nd
+- [Database (Exercise)](https://github.com/tetujin/SID2020/tree/main/sid_db_ex1)
